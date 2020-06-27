@@ -6,7 +6,7 @@ linux0.11,msdos,photoshop v1.0.1
 知识星球：
 C语言C++汇编研究中心
 
-欢迎交流
+欢迎加入交流
 
 
 
